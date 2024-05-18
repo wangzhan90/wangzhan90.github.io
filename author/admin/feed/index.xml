@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Zhan Wang</title>
+	<atom:link href="http://localhost/author/admin/feed/?simply_static_page=168" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 18 May 2024 13:48:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Single Post</title>
+		<link>/single-post/</link>
+					<comments>/single-post/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 May 2024 13:48:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=26</guid>
+
+					<description><![CDATA[Excepteur sint occaecat cupidatat non proident, sunt culpa qui officia deserunt mollit anim id est laborum. Dorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<span class="more-dots">...</span>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">Excepteur sint occaecat cupidatat non proident, sunt culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+<p class="has-drop-cap">Dorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+
+
+<h5 class="wp-block-heading">Laboris nisi</h5>
+
+
+<p class="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sint occaecat cupidatat non proident.</p>
+
+
+<p class="">Sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium:</p>
+
+
+<ul class="">
+	<li>Lorem ipsum dolor sit amet, consectetur adipisicing;</li>
+	<li>Sed do eiusmod tempor incididunt ut labore;</li>
+	<li>Ut enim ad minim veniam, quis nostrud exercitation ullamco.</li>
+</ul>
+
+
+<p class="">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.</p>
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+	<p>Lorem ipsum dolor sit amet conseetur adiicing sed eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim adminim veniam quis nostrud exercitation.</p>
+	<cite>
+		<img decoding="async" class="wp-image-17" style="width: 150px;" src="/wp-content/themes/exs/assets/img/person.png" alt="">
+		Duis M. Mollit
+	</cite>
+</blockquote>
+
+
+<p class="">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem ipsum dolor sit amet, consectetur.</p>
+
+
+<figure class="wp-block-gallery columns-4 wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+	<ul class="blocks-gallery-grid">
+		<li class="blocks-gallery-item">
+			<figure>
+				<a href="/wp-content/themes/exs/assets/img/cup.jpg">
+					<img decoding="async" src="/wp-content/themes/exs/assets/img/cup.jpg" alt="" data-id="7" data-full-url="/wp-content/themes/exs/assets/img/cup.jpg" data-link="/" class="wp-image-7"/>
+				</a>
+			</figure>
+		</li>
+		<li class="blocks-gallery-item">
+			<figure>
+				<a href="/wp-content/themes/exs/assets/img/cup.jpg">
+					<img decoding="async" src="/wp-content/themes/exs/assets/img/cup.jpg" alt="" data-id="9" data-full-url="/wp-content/themes/exs/assets/img/cup.jpg" data-link="/" class="wp-image-9"/>
+				</a>
+			</figure>
+		</li>
+		<li class="blocks-gallery-item">
+			<figure>
+				<a href="/wp-content/themes/exs/assets/img/cup.jpg">
+					<img decoding="async" src="/wp-content/themes/exs/assets/img/cup.jpg" alt="" data-id="8" data-full-url="/wp-content/themes/exs/assets/img/cup.jpg" data-link="/" class="wp-image-8"/>
+				</a>
+			</figure>
+		</li>
+		<li class="blocks-gallery-item">
+			<figure>
+				<a href="/wp-content/themes/exs/assets/img/cup.jpg">
+					<img decoding="async" src="/wp-content/themes/exs/assets/img/cup.jpg" alt="" data-id="10" data-full-url="/wp-content/themes/exs/assets/img/cup.jpg" data-link="/" class="wp-image-10"/>
+				</a>
+			</figure>
+		</li>
+	</ul>
+</figure>
+
+
+<p class="">Adipisicing elited do eiusmod tempor incididunt ut labore et dolore magna aliquaenim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+
+
+<p class="">Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/single-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 18 May 2024 12:05:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
